@@ -1,0 +1,25 @@
+# for google gemini 
+google-generativeai
+# for env
+python-dotenv
+
+pyyaml==5.3.1
+rospkg==1.5.0
+
+# for rqt_graph
+#PyQt5==5.15.1
+#PySide2
+
+# for google cloud speech 
+google-cloud-speech
+
+
+#sudo apt-get install portaudio19-dev
+pyaudio
+wave
+
+
+gTTS
+pygame
+
+#pip install -r requirements.txt

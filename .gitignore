@@ -1,0 +1,4 @@
+*.pyc
+*.wav
+.env
+speech-to-text-key.json
